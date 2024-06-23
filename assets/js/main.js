@@ -1900,7 +1900,6 @@
             }
             var d = {
                     error: {
-                        fontFamily: '-apple-system, BlinkMacSystemFont, Roboto, "Segoe UI", "Fira Sans", Avenir, "Helvetica Neue", "Lucida Grande", sans-serif',
                         height: "100vh",
                         textAlign: "center",
                         display: "flex",

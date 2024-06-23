@@ -2411,7 +2411,7 @@
             const k = {
                     textTransform: "uppercase"
                 },
-                S = '"Roboto", "Helvetica", "Arial", sans-serif';
+                S = '"Toss Product Sans", "Tossface", sans-serif';
 
             function Z(e, t) {
                 const n = "function" === typeof t ? t(e) : t,

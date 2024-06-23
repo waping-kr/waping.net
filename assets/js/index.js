@@ -65,10 +65,10 @@
                         children: [(0, n.jsxs)(f(), {
                             children: [(0, n.jsx)("meta", {
                                 name: "description",
-                                content: "익스펙테이션은 디스코드 복구봇 및 스토어 서비스 등 커뮤니티/상점에 필요한 제품들을 운영하고 있습니다."
+                                content: "와핑은 디스코드 복구봇 및 스토어 서비스 등 커뮤니티/상점에 필요한 제품들을 운영하고 있습니다."
                             }), (0, n.jsx)("meta", {
                                 property: "og:description",
-                                content: "익스펙테이션은 디스코드 복구봇 및 스토어 서비스 등 커뮤니티/상점에 필요한 제품들을 운영하고 있습니다."
+                                content: "와핑은 디스코드 복구봇 및 스토어 서비스 등 커뮤니티/상점에 필요한 제품들을 운영하고 있습니다."
                             }), (0, n.jsx)("meta", {
                                 property: "og:title",
                                 content: "Waping Team"
@@ -136,7 +136,7 @@
                                             md: "12rem"
                                         }
                                     },
-                                    children: "익스펙테이션은 디스코드 복구봇 및 스토어 서비스 등 커뮤니티/상점에 필요한 제품들을 운영하고 있습니다."
+                                    children: "와핑은 디스코드 복구봇 및 스토어 서비스 등 커뮤니티/상점에 필요한 제품들을 운영하고 있습니다."
                                 }), (0, n.jsx)(h.Z, {
                                     "data-aos": "fade-down",
                                     children: (0, n.jsx)(m.Z, {
@@ -181,7 +181,7 @@
                                                     marginTop: "10px",
                                                     marginBottom: "27px"
                                                 },
-                                                children: "왜 익스펙테이션을 써야 되나요?"
+                                                children: "왜 와핑을 써야 되나요?"
                                             }), (0, n.jsxs)(c.Z, {
                                                 sx: {
                                                     fontStyle: "normal",
@@ -807,7 +807,7 @@
                     }, {
                         name: "skill",
                         value: "일부 기능",
-                        description: "익스펙테이션에서 제공하는 일부 기능을 이용할 수 있습니다.",
+                        description: "와핑에서 제공하는 일부 기능을 이용할 수 있습니다.",
                         icon: (0, r.jsx)(i.Z, {
                             sx: {
                                 color: s.Z.palette.success.main,
@@ -862,7 +862,7 @@
                     }, {
                         name: "skill",
                         value: "모든 기능",
-                        description: "익스펙테이션에서 제공하는 모든 기능을 이용할 수 있습니다.",
+                        description: "와핑에서 제공하는 모든 기능을 이용할 수 있습니다.",
                         icon: (0, r.jsx)(i.Z, {
                             sx: {
                                 color: s.Z.palette.success.main,
@@ -917,7 +917,7 @@
                     }, {
                         name: "skill",
                         value: "모든 기능",
-                        description: "익스펙테이션에서 제공하는 모든 기능을 이용할 수 있습니다.",
+                        description: "와핑에서 제공하는 모든 기능을 이용할 수 있습니다.",
                         icon: (0, r.jsx)(i.Z, {
                             sx: {
                                 color: s.Z.palette.success.main,
