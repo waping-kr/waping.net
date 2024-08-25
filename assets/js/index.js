@@ -142,7 +142,7 @@
                                     children: (0, n.jsx)(m.Z, {
                                         variant: "contained",
                                         color: "primary",
-                                        href: "https://waping.net/discord",
+                                        href: "https://dev.waping.net/discord",
                                         size: "large",
                                         children: "구매하기"
                                     })
@@ -741,7 +741,7 @@
                                                     }))]
                                                 }), (0, n.jsx)(v.Z, {
                                                     children: (0, n.jsx)(m.Z, {
-                                                        href: "무료" === e.name ? "https://waping.net/discord" : "https://waping.net/discord",
+                                                        href: "무료" === e.name ? "https://dev.waping.net/discord" : "https://dev.waping.net/discord",
                                                         fullWidth: !0,
                                                         variant: "contained",
                                                         sx: {
@@ -771,13 +771,13 @@
                 i = o(7529),
                 s = o(668),
                 a = [{
-                    name: "기초",
-                    priceMonthly: "월 / 1,500",
+                    name: "일반",
+                    priceMonthly: "월 / 5,000",
                     bestPlan: !1,
                     features: [{
-                        name: "hosting",
-                        value: "개인 호스팅",
-                        description: "개인 호스팅이 아닌 모두가 함께 이용하는 공용 호스팅에서 운영됩니다.",
+                        name: "databasebackup",
+                        value: "데이터베이스 백업 및 복원",
+                        description: "데이터베이스를 24시간 1분 단위로 백업합니다.",
                         icon: (0, r.jsx)(n.Z, {
                             sx: {
                                 color: s.Z.palette.error.main,
@@ -785,9 +785,9 @@
                             }
                         })
                     }, {
-                        name: "custome",
-                        value: "시스템 커스텀",
-                        description: "개인 시스템 커스텀을 지원하지 않습니다.",
+                        name: "databasearchive",
+                        value: "데이터베이스 보관",
+                        description: "스토어 라이센스 만료시 즉시 데이터베이스를 삭제합니다.",
                         icon: (0, r.jsx)(n.Z, {
                             sx: {
                                 color: s.Z.palette.error.main,
@@ -795,19 +795,19 @@
                             }
                         })
                     }, {
-                        name: "customedomain",
-                        value: "개인 도메인",
-                        description: "개인 도메인 연결을 지원하지 않습니다.",
+                        name: "customercenter",
+                        value: "고객 지원",
+                        description: "서비스 이용을 위한 지원을 제공합니다.",
                         icon: (0, r.jsx)(n.Z, {
                             sx: {
-                                color: s.Z.palette.error.main,
+                                color: s.Z.palette.success.main,
                                 mr: 1
                             }
                         })
                     }, {
                         name: "skill",
-                        value: "일부 기능",
-                        description: "와핑에서 제공하는 일부 기능을 이용할 수 있습니다.",
+                        value: "모든 기능",
+                        description: "와핑에서 제공하는 모든 기능을 이용할 수 있습니다.",
                         icon: (0, r.jsx)(i.Z, {
                             sx: {
                                 color: s.Z.palette.success.main,
@@ -826,36 +826,36 @@
                         })
                     }]
                 }, {
-                    name: "일반",
-                    priceMonthly: "월 / 5,000",
+                    name: "프로",
+                    priceMonthly: "월 / 10,000",
                     bestPlan: !0,
                     features: [{
-                        name: "hosting",
-                        value: "개인 호스팅",
-                        description: "개인 호스팅이 아닌 모두가 함께 이용하는 공용 호스팅에서 운영됩니다.",
+                        name: "databasebackup",
+                        value: "데이터베이스 백업 및 복원",
+                        description: "데이터베이스를 24시간 1분 단위로 백업합니다.",
                         icon: (0, r.jsx)(n.Z, {
                             sx: {
-                                color: s.Z.palette.error.main,
+                                color: s.Z.palette.success.main,
                                 mr: 1
                             }
                         })
                     }, {
-                        name: "custome",
-                        value: "시스템 커스텀",
-                        description: "개인 시스템 커스텀을 지원하지 않습니다.",
+                        name: "databasearchive",
+                        value: "데이터베이스 보관",
+                        description: "스토어 라이센스 만료시 즉시 데이터베이스를 삭제합니다.",
                         icon: (0, r.jsx)(n.Z, {
                             sx: {
-                                color: s.Z.palette.error.main,
+                                color: s.Z.palette.success.main,
                                 mr: 1
                             }
                         })
                     }, {
-                        name: "customedomain",
-                        value: "개인 도메인",
-                        description: "개인 도메인 연결을 지원하지 않습니다.",
+                        name: "customercenter",
+                        value: "고객 지원",
+                        description: "서비스 이용을 위한 지원을 제공합니다.",
                         icon: (0, r.jsx)(n.Z, {
                             sx: {
-                                color: s.Z.palette.error.main,
+                                color: s.Z.palette.success.main,
                                 mr: 1
                             }
                         })
