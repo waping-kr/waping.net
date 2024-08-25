@@ -142,7 +142,7 @@
                                     children: (0, n.jsx)(m.Z, {
                                         variant: "contained",
                                         color: "primary",
-                                        href: "https://dev.waping.net/discord",
+                                        href: "https://waping.net/discord",
                                         size: "large",
                                         children: "구매하기"
                                     })
@@ -741,7 +741,7 @@
                                                     }))]
                                                 }), (0, n.jsx)(v.Z, {
                                                     children: (0, n.jsx)(m.Z, {
-                                                        href: "무료" === e.name ? "https://dev.waping.net/discord" : "https://dev.waping.net/discord",
+                                                        href: "무료" === e.name ? "https://waping.net/discord" : "https://waping.net/discord",
                                                         fullWidth: !0,
                                                         variant: "contained",
                                                         sx: {

@@ -2957,7 +2957,7 @@
                             content: "Waping Team"
                         }), (0, i.jsx)("link", {
                             rel: "canonical",
-                            href: "https://dev.waping.net"
+                            href: "https://waping.net"
                         }), (0, i.jsx)("meta", {
                             name: "viewport",
                             content: "width=device-width, initial-scale=1.0"

@@ -138,22 +138,22 @@
                                     wordWrap: "break-all"
                                 },
                                 children: [(0, n.jsx)(a(), {
-                                    href: "https://dev.waping.net/discord",
+                                    href: "https://waping.net/discord",
                                     target: "_blank",
                                     children: (0, n.jsx)(s.Z, {
                                         variant: "body2",
                                         color: "#a7a2ff",
-                                        href: "https://dev.waping.net/discord",
+                                        href: "https://waping.net/discord",
                                         target: "_blank",
                                         children: "지원"
                                     })
                                 }), (0, n.jsx)("br", {}), (0, n.jsx)(a(), {
-                                    href: "https://dev.waping.net/notices",
+                                    href: "https://waping.net/notices",
                                     target: "_blank",
                                     children: (0, n.jsx)(s.Z, {
                                         variant: "body2",
                                         color: "#a7a2ff",
-                                        href: "https://dev.waping.net/notices",
+                                        href: "https://waping.net/notices",
                                         target: "_blank",
                                         children: "공지"
                                     })
@@ -260,7 +260,7 @@
             function D() {
                 var r = (0, s.useState)({
                         text: "문서",
-                        href: "https://dev.waping.net/documentation"
+                        href: "https://waping.net/documentation"
                     }),
                     e = r[0],
                     t = r[1],
@@ -277,13 +277,13 @@
                             return (0, o.__generator)(this, (function(o) {
                                 return localStorage.getItem("token") && (e = null === (r = null === localStorage || void 0 === localStorage ? void 0 : localStorage.getItem("token")) || void 0 === r ? void 0 : r.split(".")) ? !(n = JSON.parse(atob(e[1]))).id && new Date(1e3 * n.exp) < new Date ? t({
                                     text: "문서",
-                                    href: "https://dev.waping.net/documentation"
+                                    href: "https://waping.net/documentation"
                                 }) : t({
                                     text: "문서",
-                                    href: "https://dev.waping.net/documentation"
+                                    href: "https://waping.net/documentation"
                                 }) : t({
                                     text: "문서",
-                                    href: "https://dev.waping.net/documentation"
+                                    href: "https://waping.net/documentation"
                                 }), [2]
                             }))
                         }));
@@ -388,9 +388,9 @@
                                             children: [(0, a.jsx)(y.Z, {
                                                 onClick: R,
                                                 children: (0, a.jsx)(c(), {
-                                                    href: "https://dev.waping.net/discord",
+                                                    href: "https://waping.net/discord",
                                                     children: (0, a.jsxs)(k.Z, {
-                                                        href: "https://dev.waping.net/discord",
+                                                        href: "https://waping.net/discord",
                                                         children: [(0, a.jsx)(v.Z, {
                                                             children: (0, a.jsx)(l.Z, {})
                                                         }), (0, a.jsx)(w.Z, {
@@ -426,7 +426,7 @@
                                             direction: "row",
                                             spacing: 1,
                                             children: [(0, a.jsx)(b.Z, {
-                                                href: "https://dev.waping.net/discord",
+                                                href: "https://waping.net/discord",
                                                 children: "디스코드"
                                             })]
                                         })
