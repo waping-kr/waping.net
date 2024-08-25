@@ -181,20 +181,20 @@
                                     wordWrap: "break-all"
                                 },
                                 children: [(0, n.jsx)(a(), {
-                                    href: "https://docs.google.com/document/d/1mjFkOwSdn8l6DlOtiVJqalLd1DFCMRuufLwSRVwAMII/edit?usp=sharing",
+                                    href: "https://waping.rocat.xyz/privacy",
                                     children: (0, n.jsx)(s.Z, {
                                         variant: "body2",
                                         color: "#a7a2ff",
-                                        href: "https://docs.google.com/document/d/1mjFkOwSdn8l6DlOtiVJqalLd1DFCMRuufLwSRVwAMII/edit?usp=sharing",
+                                        href: "https://waping.rocat.xyz/privacy",
                                         children: "개인정보보호정책"
                                     })
                                 }), (0, n.jsx)("br", {}), (0, n.jsx)(a(), {
-                                    href: "https://docs.google.com/document/d/1mjFkOwSdn8l6DlOtiVJqalLd1DFCMRuufLwSRVwAMII/edit?usp=sharing",
+                                    href: "https://docs.google.com/document/d/1DGBVeZ6YqmfWC2ryWx182gOqIDXPPTeGcMQLE9N-Ph0/edit?usp=sharing",
                                     target: "_blank",
                                     children: (0, n.jsx)(s.Z, {
                                         variant: "body2",
                                         color: "#a7a2ff",
-                                        href: "https://docs.google.com/document/d/1mjFkOwSdn8l6DlOtiVJqalLd1DFCMRuufLwSRVwAMII/edit?usp=sharing",
+                                        href: "https://docs.google.com/document/d/1DGBVeZ6YqmfWC2ryWx182gOqIDXPPTeGcMQLE9N-Ph0/edit?usp=sharing",
                                         target: "_blank",
                                         children: "이용약관"
                                     })
